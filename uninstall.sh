@@ -5,3 +5,6 @@ rm -rf /Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/Projec
 rm -rf /Library/Frameworks/SkankySDK.framework/
 rm -rf "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/SkankySDK.framework"
 rm -rf "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/SkankySDK.framework"
+rm -rf "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/SkankySDK.framework"
+rm -rf "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/SkankySDK.framework"
+rm -rf "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/SkankySDK.framework"
